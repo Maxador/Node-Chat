@@ -1,0 +1,11 @@
+{
+	"name": "Node-Chat",
+	"version": "0.0.0",
+	"description": "Real time web chat for learning Socket.IO and Node.js",
+	"dependencies" : {
+		"socket.io": "latest",
+		"express": "latest",
+		"jade": "latest"
+	},
+	"author": "Maxador"
+}
